@@ -13,17 +13,16 @@ Miranda, D. 2020, Physical Statistic Simulation of the Number of States and Entr
 ## BibTeX
 
 ```
-@misc{Miranda2020,
-    author       = {David Miranda},
-    title        = {{Physical Statistic Simulation of the Number of States and Entropy for an Isolated System}},
-    month        = jul,
-    year         = 2020,
-    doi          = {10.5281/zenodo.3960800},
-    version      = {1.0},
-    publisher    = {Zenodo},
-    url          = {https://zenodo.org/badge/latestdoi/282716107
+@software{Miranda2020,
+  author       = {David Miranda},
+  title        = {{davidalejandromiranda/entropy\_isolated: Entropy\_Isolated v1.0}},
+  month        = jul,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.3960800},
+  url          = {https://doi.org/10.5281/zenodo.3960800}
 }
-    }
 ```
 
 # Licence
