@@ -8,6 +8,8 @@ Miranda, D. 2020, Physical Statistic Simulation of the Number of States and Entr
 
 ## DOI
 
+10.5281/zenodo.3960800
+
 ## BibTeX
 
 ```
@@ -16,10 +18,11 @@ Miranda, D. 2020, Physical Statistic Simulation of the Number of States and Entr
     title        = {{Physical Statistic Simulation of the Number of States and Entropy for an Isolated System}},
     month        = jul,
     year         = 2020,
-    doi          = {},
+    doi          = {10.5281/zenodo.3960800},
     version      = {1.0},
     publisher    = {Zenodo},
-    url          = {}
+    url          = {https://zenodo.org/badge/latestdoi/282716107
+}
     }
 ```
 
