@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook to simulate the number of states and
 
 # How to cite this work?
 
-Miranda, D. 2020, Physical Statistic Simulation of the Number of States and Entropy for an Isolated System, v1.0, Zenodo, doi:
+Miranda, D. 2020,   “davidalejandromiranda/entropyisolated:EntropyIsolated v1.0," Zenodo, doi: 10.5281/zenodo.3960800.
 
 ## DOI
 
