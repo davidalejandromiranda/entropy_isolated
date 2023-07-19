@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Miranda
+    given-names: David A.
+    orcid: https://orcid.org/1234-5678-9101-1121
+title: davidalejandromiranda/entropy_isolated: Entropy_Isolated v1.0
+doi: 10.5281/zenodo.3960800
+version: v1.0
+date-released: 2020-07-26
